@@ -33,6 +33,6 @@ const Produto = ({ game, aoComprar }: Props) => {
       </S.BtnComprar>
     </S.Produto>
   )
-}
+} //teste
 
 export default Produto
