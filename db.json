@@ -44,7 +44,15 @@
       "preco": 349.90,
       "categoria": "Ação",
       "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=440&thumb=false"
+    },
+    {
+      "id": 5,
+      "titulo": "Dead Space Remake",
+      "plataformas": ["PS5", "Windows", "Xbox"],
+      "precoAntigo": null,
+      "preco": 229.90,
+      "categoria": "Terror",
+      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2113/ZqpcW1r97RADDwHsYz2q2VaK.png"
     }
-
   ]
 }
